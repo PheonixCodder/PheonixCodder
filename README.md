@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Nestjs / AI Enginnering
 - 👯 I’m looking to collaborate on ... New and Exciting AI Projects
 - 💬 Ask me about ... Anything Related to Full Stack and AI
-- 📫 How to reach me: ... Just mail me on ismailabdulahad96@gmail.com or connect with me on Linkedin and Instagram
+- 📫 How to reach me: ... Just mail me on ubaidullahismail09@gmail.com or connect with me on Linkedin and Instagram
 
 
 [![Abdulahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PheonixCodder&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
