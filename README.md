@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything Related to Full Stack and AI
 - 📫 How to reach me: Just mail me on ubaidullahismail09@gmail.com or connect with me on Linkedin and Instagram
 
-
-[![Abdulahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PheonixCodder&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdulahad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PheonixCodder&theme=merko)](https://github.com/PheonixCodder)
